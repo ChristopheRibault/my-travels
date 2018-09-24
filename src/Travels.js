@@ -23,13 +23,13 @@ const travels = [
 	{
 		dest: "Jeju",
     	country: "South Korea",
-    	image: "https://cdn.pixabay.com/photo/2013/01/15/08/12/jeju-74956_960_720.jpg",
+    	image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seongsan_Jeju_Island_%EC%A0%9C%EC%A3%BC%EB%8F%84.jpg/800px-Seongsan_Jeju_Island_%EC%A0%9C%EC%A3%BC%EB%8F%84.jpg",
     	distance: "12,000 km"
 	},
 	{
 		dest: "Cliffs of Moher",
     	country: "Ireland",
-    	image: "https://cdn.pixabay.com/photo/2017/06/04/18/30/cliff-of-moher-2371819_960_720.jpg",
+    	image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cliffs_of_Moher_north.jpg",
     	distance: "1200 km"
 	},
 ]
